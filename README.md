@@ -8,6 +8,8 @@ plastering it everywhere afterward.
 I want to position myself as a software engineer that focuses on security in both Web Applications and binaries/scripts that run on the underlying operating systems. I'm on the blue team, and I want to be an
 expert in detecting and stop bad actors.
 
+Check out [my website](https://failedalgorithm.com) if you want to see some of my writings on random stuff.
+
 ## 📘Education
 I'm always in the market to learn something.
 
