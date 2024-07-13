@@ -5,6 +5,9 @@ Currently, I am part of a small team that operates the SOC at one
 of the largest paper manufacturing companies in the world. I have around 5 years of IT sysadmin experience, where I held the CompTIA Triad (A+, Net+, Sec+). The CISSP title is coming soon and I'm
 plastering it everywhere afterward.
 
+I want to position myself as a software engineer that focuses on security in both Web Applications and binaries/scripts that run on the underlying operating systems. I'm on the blue team, and I want to be an
+expert in detecting and stop bad actors. I love a good arms race.
+
 ## 📘Education
 I'm always in the market to learn something.
 
